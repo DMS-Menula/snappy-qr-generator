@@ -65,10 +65,7 @@ Designed with a smooth **glassmorphism UI**, gradient animations, and advanced c
 
 ## 📸 Demo Preview
 
-```
-
-
-```
+<img width="1508" height="897" alt="image" src="https://github.com/user-attachments/assets/7b683790-706f-4e95-9e2e-707f29db406d" />
 
 ---
 
@@ -106,6 +103,5 @@ This project is open-source and free to use.
 ---
 
 ### 🔗 Live Demo  
-Add your GitHub Pages link here 👇  
 ```
 https://dmsmenula.github.io/snappy-qr-generator/
