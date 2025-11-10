@@ -71,8 +71,6 @@ Designed with a smooth **glassmorphism UI**, gradient animations, and advanced c
 
 ## 🧑‍💻 Developer  
 **Menula De Silva**  
-Founder of **Snappy Dev**
-
 ---
 
 ## ⭐ Contribute
