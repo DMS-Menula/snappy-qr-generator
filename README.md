@@ -2,6 +2,9 @@
 A modern, interactive, and fully responsive QR Code Generator built using **HTML**, **CSS**, **Bootstrap 5**, and **JavaScript**.  
 Designed with a smooth **glassmorphism UI**, gradient animations, and advanced customization options.
 
+<img width="1909" height="938" alt="image" src="https://github.com/user-attachments/assets/4bccc83b-6a1f-43c2-98d6-a178c7b9f05d" />
+
+
 ---
 
 ## ✨ Features
